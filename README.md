@@ -9,7 +9,7 @@
   <details>
     <summary>👇 <strong>Clique para ver meus Contatos</strong></summary>
     <br>
-    <a href="https://www.linkedin.com/in/matheus-siqueira-130439246/">
+    <a href="https://www.linkedin.com/in/matheus-de-souza-siqueira">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <br><br>
